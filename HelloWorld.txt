@@ -1,7 +1,5 @@
 Hello 1
 Hello 2
-<<<<<<< HEAD
 Hello from GoodBy
-=======
 after finished GoodBy
->>>>>>> master
+
