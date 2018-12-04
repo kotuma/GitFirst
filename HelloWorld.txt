@@ -2,4 +2,6 @@ Hello 1;
 Hello 2;
 Hello from GoodBy;
 after finished GoodBy;
+print("Hello my dear friends;")
+print("Glad to see you;") 
 
